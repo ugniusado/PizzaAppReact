@@ -19,7 +19,7 @@ PizzaApp is a full-stack web application that allows users to order pizzas with 
 ### Steps
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/PizzaApp.git
+   git clone https://github.com/ugniusado/PizzaAppReact.git
    cd PizzaApp
    ```
 
